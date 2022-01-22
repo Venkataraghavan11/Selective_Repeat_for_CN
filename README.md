@@ -1,5 +1,3 @@
-# Selective_Repeat_for_CN
-Programs for Selective Repeat Protocol
 # SELECTIVE REPEAT PROTOCOL
 
 
@@ -20,4 +18,6 @@ e.g. python ClientApp.py -f "index.html" -a "127.0.0.1" -b 8081 -x "127.0.0.1" -
 
 
 ## Maintainer
- - Name:        Venkataraghavan & Anantharaman
+ - Name:        Chetan Borse
+ - EMail ID:    chetanborse2106@gmail.com
+ - LinkedIn:    https://www.linkedin.com/in/chetanrborse
